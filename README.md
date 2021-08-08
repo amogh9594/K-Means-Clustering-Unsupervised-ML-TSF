@@ -8,6 +8,6 @@ Libraries Used: Scikit Learn, Pandas, Numpy
 
 Dataset: Iris Dataset
 
-Complete Video Link: YouTube: https://youtu.be/jARvB8Imjvo
+Complete Video Link: YouTube: https://www.linkedin.com/posts/amogh-kawle-939716113_github-amogh9594k-means-clustering-unsupervised-ml-tsf-activity-6829988287151685632-jwT6
 
 ### By- Amogh Kawle
